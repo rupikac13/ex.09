@@ -17,7 +17,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: COMP110 Exercise 09, Analyzing Understanding in Class
+title: Analyzing Understanding in Class
 email: rupikac@unc.edu
 description: >- 
  Let's analyze our understanding in class by looking at the data we have collected. 
