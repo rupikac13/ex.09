@@ -20,10 +20,10 @@
 title: Analyzing Understanding in Class
 email: rupikac@unc.edu
 description: >-
-  Let's analyze our understanding in class by looking at the data we have collected. 
-  We will use the data to create visualizations and draw conclusions about our learning process. 
-baseurl: /ex.09
-url: https://rupikac13.github.io
+  Let's analyze our understanding in class by looking at the data we have collected.
+  We will use the data to create visualizations and draw conclusions about our learning process.
+baseurl: "/ex.09"
+url: "https://rupikac13.github.io"
 twitter_username: rupikac13
 github_username:  rupikac13
 
@@ -33,7 +33,7 @@ remote_theme: "jekyll/minima@1e8a445"
 
   remote_theme: pages-themes/midnight@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
 
 #- jekyll-feed
 # Exclude from processing.
