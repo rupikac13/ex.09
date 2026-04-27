@@ -7,7 +7,9 @@ layout: default
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="static/image1.png" alt="Image1" width="500"/>
-<img src="static/imgs/logo.png" alt="Logo" width="500"/>
+<img src="static/dot plot.jpeg" alt="Image2" width="500"/>
+<img src="static/line graph.jpeg" alt="Image3" width="500"/>
+
 
 ## small header
 
